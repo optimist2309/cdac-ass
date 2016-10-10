@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> JS ARRAY ASSIGNMT SOLUTION 4</title>
+	<script type="text/javascript">
+    function uni_array () {
+    	var duplicatesArray = ['AKASH','AKASH','NAVIN','HARISH','NAVIN','HARISH','AKASH','MANJULIKA','AKASH','TAPASWENI','MANJULIKA','HARISH','TAPASWENI','AKASH','MANISH','HARISH','TAPASWENI','MANJULIKA','MANISH'];
+    
+var uniqueArray = duplicatesArray.filter(function(elem, pos) {
+  return duplicatesArray.indexOf(elem) == pos;
+})
+
+   document.write(uniqueArray);
+    }
+
+
+
+	</script>
+</head>
+<body>
+<input type="button" onclick="uni_array()" value="array">
+</body>
+</html>
