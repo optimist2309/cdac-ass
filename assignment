@@ -1,0 +1,38 @@
+1. Write a JavaScript function to add rows to a table 
+2. Create an custom object of DAC students ( name, rollno, mark set the value from text boxes have button – add create an array of it and display it in table.
+3. Write a program to get factorial of a number.
+4. Write a JavaScript program to sort a list of elements using Insertion sort. 
+5. Write a JavaScript program to get the current date.  
+6.  Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are obtained as inputs from the user.
+7. Write a JavaScript function that reverse a number.
+8.  Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case.
+9.  Write a JavaScript function that accepts a string as a parameter and find the longest word within the string. 
+
+// Javascript Array
+
+Write a simple JavaScript program to join all elements of the following array into a string. 
+myColor = ["Red", "Green", "White", "Black"];
+
+1. Write a JavaScript program to sort the items of an array.
+2. Write a JavaScript program to add items in an blank array and display the items. 
+3.  Write a JavaScript program to remove duplicate items from an array (ignore case sensitivity). 
+4. We have the following arrays
+color = ["Blue ", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow "];
+o = ["th","st","nd","rd"]
+Write a JavaScript program to display the colors in the following way :
+"1st choice is Blue ."
+"2nd choice is Green."
+"3rd choice is Red." 
+5. There are two arrays with individual values, write a JavaScript program to compute the sum of each individual index value from the given arrays. 
+array1 = [1,0,2,3,4];
+array2 = [3,5,6,7,8,13];
+Expected Output : 
+[4, 5, 8, 10, 12, 13] 
+
+// JavaScript object
+1. Write a JavaScript program to delete a property from an object. Also print the object before or after deleting the property. 
+2.  Write a JavaScript program to get the length of an JavaScript object. 
+3.  Write a JavaScript program which returns a subset of a string.
+Sample Data : dog
+Expected Output : ["d", "do", "dog", "o", "og", "g"]
+
